@@ -57,7 +57,7 @@ Al ejecutar la aplicación, se mostrará un menú en la consola donde puedes sel
 
 ## Ejemplo de Conversión
 
-![Ejemplo de conversión]((https://github.com/geralexcas/challange2-alura-conversor-de-monedas/src/images
+![Ejemplo de conversión](https://github.com/geralexcas/challange2-alura-conversor-de-monedas/src/images
 /img5.png)
  
 <h2>Contribuciones</h2>
